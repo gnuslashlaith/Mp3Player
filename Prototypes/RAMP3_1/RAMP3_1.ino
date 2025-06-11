@@ -6,7 +6,7 @@ DFRobotDFPlayerMini myDFPlayer;
 
 // song arrays
 
-const char* songNames[] = {
+const char* songNames[] = { 
     "constellations.mp3",
     "dull.mp3",
     "fine.mp3",
