@@ -88,3 +88,18 @@ So I added the next/prev buttons and the potentiometer of course, and like reall
 [IMG_8674.MOV](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--2699385e582b849d2513f186ffc0ddaf03130c3a/IMG_8674.MOV)
   
 
+## 10/11/2025 6:11 PM - KICAD SCHEMATIC!  
+
+hehe time for the WORST part. I hate kicad business. But I must for a sleek mp3 player for me to flex in school. theres no way im losing the performative male competition with this thing. 
+
+
+I dont really understand nets so i really messed it up at first but kind gracious hack clubbers helped me out here. Heh. I fixed them I think lolz. 
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--0cac510a51dc41511639c7c7c86b17d1854d302a/image.png)
+
+Fixed (?) version
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYxNywicHVyIjoiYmxvYl9pZCJ9fQ==--a70832caec0a220f90680c2e50a05f94cb4fa78c/image.png)
+
+  
+
