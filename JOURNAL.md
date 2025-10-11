@@ -103,3 +103,14 @@ Fixed (?) version
 
   
 
+## 10/11/2025 6:14 PM - Routed the PCB  
+
+i think its done yall... Im unsure if its any good but I did the traces. THey are quite long I realize but hey no errors or warnings, so... a win is a win? Maybe. 
+
+I really dont know if its going to work since like there's kind of no way to test it other than the DRC. i tried different configurations to reduce traces but that caused overlap and more problems. I settled with this. 
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--fd1760b952235e418e4efb3da2bf4e411424e6d9/image.png)
+
+
+  
+
