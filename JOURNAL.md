@@ -10,7 +10,7 @@ This is my journal of the design and building process of **Mp3Player**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/414).
 
 
-## 10/11/2025 - Research !!  
+## 10/11/2025 5:51 PM - Research !!  
 
 I was looking at the pinout of both the pico and the mp3-tf-16p. Learned some stuff about RX and TX, UART and all of that junk. I realize I don't really know that much!
 
@@ -24,5 +24,22 @@ I am incredibly bad at wiring. I flipped over the tfplayer and connected things 
 ![IMG_8938.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYwNywicHVyIjoiYmxvYl9pZCJ9fQ==--f991ee6981d23a8c638dade88f5c91ec4297c4b4/IMG_8938.jpg)
 
 
+  
+
+## 10/11/2025 5:55 PM - Getting the TFPlayer to WORK  
+
+SO!!! I got it to work after absolutely frying it last time lolz. 
+
+A few things I noticed:
+
+- I need to pay attention to power. The tfplayer is quite powerful and things can break easier than what im used to.
+- code needs to work through some conditional statement to avoid frying. I just left it as like "mp3.play();" in the loop function - yeah LMAO.
+
+
+Next steps:
+- Add buttons! + volume, - volume
+
+
+![IMG_8939.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--1a55eeeeff82bddca54fa932058fe6e52d7f7dcb/IMG_8939.jpg)
   
 
