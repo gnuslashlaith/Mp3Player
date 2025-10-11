@@ -54,3 +54,18 @@ Looking back at the pinout, I could maybe use IO-2 and IO-1; for next song/+ vol
 ![IMG_8940.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--aad58905016e7748fe7a5636eb78ef849494e454/IMG_8940.jpg)
   
 
+## 10/11/2025 6 PM - BUTTON REVELATION!  
+
+Wait a MINUTE! POTENTIOMETERS!! Those EXIST! can you believe it? I could not. 
+
+
+I could use a potentiometer to control volume, with 1 button that acts as a control around the screen. I just need to figure out how to make it work with the OLED device... 
+
+I drew some diagrams below for how I think it could look like when routing pcb junk
+
+![IMG_8941.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--cf7f2e7a8cda2de454622eda3c771946587b5676/IMG_8941.jpg)
+
+
+
+  
+
