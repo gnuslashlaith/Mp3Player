@@ -54,7 +54,7 @@ Looking back at the pinout, I could maybe use IO-2 and IO-1; for next song/+ vol
 ![IMG_8940.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--aad58905016e7748fe7a5636eb78ef849494e454/IMG_8940.jpg)
   
 
-## 10/11/2025 6 PM - BUTTON REVELATION!  
+## 10/11/2025 6:02 PM - BUTTON REVELATION!  
 
 Wait a MINUTE! POTENTIOMETERS!! Those EXIST! can you believe it? I could not. 
 
@@ -68,4 +68,13 @@ I drew some diagrams below for how I think it could look like when routing pcb j
 
 
   
+
+## 10/11/2025 6:04 PM - Debugging and Stuff  
+
+A LOT OF DEBUGGING!! I was trying to set up my oled screen....hehe... why did that take so long. And i see people makin 3d printers up in here - took me like an hour to get a library installed. sighs dramatically.
+
+Potentiometers are quite glitchy/laggy. Maybe the one I got is low quality and susceptible to noise.
+
+
+![0.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--20d78bcc5e3e901767ef6604ca54e194a1f02fa6/0.jpg)  
 
