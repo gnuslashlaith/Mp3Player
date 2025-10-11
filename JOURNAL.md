@@ -78,3 +78,13 @@ Potentiometers are quite glitchy/laggy. Maybe the one I got is low quality and s
 
 ![0.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--20d78bcc5e3e901767ef6604ca54e194a1f02fa6/0.jpg)  
 
+## 10/11/2025 6:07 PM - Finally added buttons and stuff  
+
+So I added the next/prev buttons and the potentiometer of course, and like really put it all together. I think I'm ready for PCB Design!! I will say though the wiring is messy and it makes me worried for how it would look like when routing the PCB. I think I'll be ok.
+
+![IMG_8943.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYxMywicHVyIjoiYmxvYl9pZCJ9fQ==--b775ea5acd8a136d6794e2fbe8c4a9f47db645cb/IMG_8943.jpg)
+
+
+[IMG_8674.MOV](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--2699385e582b849d2513f186ffc0ddaf03130c3a/IMG_8674.MOV)
+  
+
