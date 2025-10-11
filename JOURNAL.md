@@ -43,3 +43,14 @@ Next steps:
 ![IMG_8939.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--1a55eeeeff82bddca54fa932058fe6e52d7f7dcb/IMG_8939.jpg)
   
 
+## 10/11/2025 5:58 PM - Adding buttons (and failing)  
+
+I'm holding back a little with this project... 
+
+Using buttons without a screen may lead to adding a TON of buttons, do not feel like doing that.
+
+Looking back at the pinout, I could maybe use IO-2 and IO-1; for next song/+ volume, previous song/- volume? 
+
+![IMG_8940.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--aad58905016e7748fe7a5636eb78ef849494e454/IMG_8940.jpg)
+  
+
