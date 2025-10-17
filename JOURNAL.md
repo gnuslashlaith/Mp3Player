@@ -53,7 +53,8 @@ Using buttons without a screen may lead to adding a TON of buttons, do not feel 
 Looking back at the pinout, I could maybe use IO-2 and IO-1; for next song/+ volume, previous song/- volume? 
 
 ![IMG_8940.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--aad58905016e7748fe7a5636eb78ef849494e454/IMG_8940.jpg)
-  
+
+~1 hour  
 
 ## 10/11/2025 6:02 PM - BUTTON REVELATION!  
 
