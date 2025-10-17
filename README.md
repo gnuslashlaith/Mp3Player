@@ -12,3 +12,8 @@ rewarding. I still do not have the physical PCB but I did design it and I have t
 
 I struggled quite a bit with the code since debugging was quite hard, but it was mostly trial and error. Fun! 
 
+<img width="482" height="787" alt="image" src="https://github.com/user-attachments/assets/bc9ca951-93be-47cd-bb1a-9b5d17611f34" />
+
+<img width="1296" height="829" alt="image" src="https://github.com/user-attachments/assets/b43d5718-67bc-4108-8038-5bfc8be9b83b" />
+
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
