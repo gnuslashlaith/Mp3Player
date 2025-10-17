@@ -68,7 +68,7 @@ I drew some diagrams below for how I think it could look like when routing pcb j
 ![IMG_8941.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--cf7f2e7a8cda2de454622eda3c771946587b5676/IMG_8941.jpg)
 
 
-
+~1 hour
   
 
 ## 10/11/2025 6:04 PM - Debugging and Stuff  
