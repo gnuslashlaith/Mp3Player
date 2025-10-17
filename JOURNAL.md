@@ -108,7 +108,7 @@ Fixed (?) version
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYxNywicHVyIjoiYmxvYl9pZCJ9fQ==--a70832caec0a220f90680c2e50a05f94cb4fa78c/image.png)
 
 
-~1.3
+~1.3 hours
   
 
 ## 10/11/2025 6:14 PM - Routed the PCB  
