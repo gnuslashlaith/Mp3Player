@@ -91,7 +91,8 @@ So I added the next/prev buttons and the potentiometer of course, and like reall
 
 
 [IMG_8674.MOV](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--2699385e582b849d2513f186ffc0ddaf03130c3a/IMG_8674.MOV)
-  
+
+~1.5 hours  
 
 ## 10/11/2025 6:11 PM - KICAD SCHEMATIC!  
 
