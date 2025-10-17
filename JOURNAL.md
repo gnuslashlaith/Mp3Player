@@ -23,7 +23,7 @@ I am incredibly bad at wiring. I flipped over the tfplayer and connected things 
 
 ![IMG_8938.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYwNywicHVyIjoiYmxvYl9pZCJ9fQ==--f991ee6981d23a8c638dade88f5c91ec4297c4b4/IMG_8938.jpg)
 
-
+~1.9 hours
   
 
 ## 10/11/2025 5:55 PM - Getting the TFPlayer to WORK  
