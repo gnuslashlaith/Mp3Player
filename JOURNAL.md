@@ -78,7 +78,10 @@ A LOT OF DEBUGGING!! I was trying to set up my oled screen....hehe... why did th
 Potentiometers are quite glitchy/laggy. Maybe the one I got is low quality and susceptible to noise.
 
 
-![0.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--20d78bcc5e3e901767ef6604ca54e194a1f02fa6/0.jpg)  
+![0.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--20d78bcc5e3e901767ef6604ca54e194a1f02fa6/0.jpg)
+
+
+~2 hours  
 
 ## 10/11/2025 6:07 PM - Finally added buttons and stuff  
 
