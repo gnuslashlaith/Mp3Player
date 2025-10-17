@@ -41,7 +41,8 @@ Next steps:
 
 
 ![IMG_8939.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTYwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--1a55eeeeff82bddca54fa932058fe6e52d7f7dcb/IMG_8939.jpg)
-  
+
+2.5 hours  
 
 ## 10/11/2025 5:58 PM - Adding buttons (and failing)  
 
